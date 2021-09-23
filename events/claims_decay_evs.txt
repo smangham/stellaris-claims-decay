@@ -1,0 +1,94 @@
+namespace = claims_decay
+
+@claims_decay_time_1 = 24
+@claims_decay_time_2 = 60
+@claims_decay_time_3 = 120
+
+country_event = {
+	id = claims_decay.10
+	hide_window = yes
+	
+	trigger = {
+		is_ai = yes
+		is_active_resolution = claims_decay_resolution_1
+	}
+	
+	mean_time_to_happen = {
+		months = @claims_decay_time_1
+	}
+	
+	immediate = {
+		country_event = {
+			id = claims_decay.20
+		}
+	}
+}
+
+country_event = {
+	id = claims_decay.11
+	hide_window = yes
+	
+	trigger = {
+		is_ai = yes
+		is_active_resolution = claims_decay_resolution_2
+	}
+	
+	mean_time_to_happen = {
+		months = @claims_decay_time_2
+	}
+	
+	immediate = {
+		country_event = {
+			id = claims_decay.20
+		}
+	}
+}
+
+country_event = {
+	id = claims_decay.12
+	hide_window = yes
+	
+	trigger = {
+		is_ai = yes
+		is_active_resolution = claims_decay_resolution_3
+	}
+	
+	mean_time_to_happen = {
+		months = @claims_decay_time_3
+	}
+	
+	immediate = {
+		country_event = {
+			id = claims_decay.20
+		}
+	}
+}
+
+country_event = {
+	id = claims_decay.20
+	hide_window = yes
+	is_triggered_only = yes
+
+	immediate = {
+		every_country = {
+			limit = {
+				is_galactic_community_member = yes
+				NOT = {
+					is_in_breach_of_any = yes
+				}
+			}
+		
+			random_system_within_border = {
+				limit = {
+					root = {
+						has_claim = prev
+					}
+				}
+				remove_claims = { 
+					who = root 
+					num_of_claims = 5 
+				} 
+			}
+		}
+	}
+}

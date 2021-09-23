@@ -1,0 +1,12 @@
+claims_decay_resolution_category = {
+	group = politics_culture
+	icon = "GFX_resolution_create_council"
+	resolution_types = {
+		"claims_decay_repeal_1"
+		"claims_decay_resolution_1"
+		"claims_decay_repeal_2"
+		"claims_decay_resolution_2"
+		"claims_decay_repeal_3"
+		"claims_decay_resolution_3"
+	}
+}
