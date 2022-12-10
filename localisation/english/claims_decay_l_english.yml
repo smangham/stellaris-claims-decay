@@ -16,3 +16,7 @@
  claims_decay_repeal_3_effect_success:0 "Repeals the §YBureau of Reconciliation§  resolution."
  claims_decay_repeal_3:0 "Repeal Bureau of Reconciliation"
  claims_decay_repeal_3_desc:0 "The Bureau is an over-reach- we do not require bureaucracy to compel us to do the right thing."
+
+ claims_decay_static_modifier_1:0 "De-escalation Channels"
+ claims_decay_static_modifier_2:0 "Amnesty Conventions"
+ claims_decay_static_modifier_3:0 "Bureau of Reconciliation"

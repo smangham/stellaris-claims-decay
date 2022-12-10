@@ -77,21 +77,25 @@ claims_decay_resolution_1 = {
 		modifier = {
 			factor = 4
 			has_ethic = ethic_fanatic_xenophile
+			desc = ethic_fanatic_xenophile
 		}
 
 		modifier = {
 			factor = 2
 			has_ethic = ethic_xenophile
+			desc = ethic_xenophile
 		}
 
 		modifier = {
 			factor = 0.5
 			has_ethic = ethic_xenophobe
+			desc = ethic_xenophobe
 		}
 
 		modifier = {
 			factor = 0.25
 			has_ethic = ethic_fanatic_xenophobe
+			desc = ethic_fanatic_xenophobe
 		}
 	}
 }
@@ -134,21 +138,25 @@ claims_decay_resolution_2 = {
 		modifier = {
 			factor = 4
 			has_ethic = ethic_fanatic_xenophile
+			desc = ethic_fanatic_xenophile
 		}
 
 		modifier = {
 			factor = 2
 			has_ethic = ethic_xenophile
+			desc = ethic_xenophile
 		}
 
 		modifier = {
 			factor = 0.5
 			has_ethic = ethic_xenophobe
+			desc = ethic_xenophobe
 		}
 
 		modifier = {
 			factor = 0.25
 			has_ethic = ethic_fanatic_xenophobe
+			desc = ethic_fanatic_xenophobe
 		}
 	}
 }
@@ -191,21 +199,25 @@ claims_decay_resolution_3 = {
 		modifier = {
 			factor = 4
 			has_ethic = ethic_fanatic_xenophile
+			desc = ethic_fanatic_xenophile
 		}
 
 		modifier = {
 			factor = 2
 			has_ethic = ethic_xenophile
+			desc = ethic_xenophile
 		}
 
 		modifier = {
 			factor = 0.5
 			has_ethic = ethic_xenophobe
+			desc = ethic_xenophobe
 		}
 
 		modifier = {
 			factor = 0.25
 			has_ethic = ethic_fanatic_xenophobe
+			desc = ethic_fanatic_xenophobe
 		}
 	}
 }
@@ -248,21 +260,25 @@ claims_decay_repeal_1 = {
 		modifier = {
 			factor = 0.25
 			has_ethic = ethic_fanatic_xenophile
+			desc = ethic_fanatic_xenophile
 		}
 
 		modifier = {
 			factor = 0.5
 			has_ethic = ethic_xenophile
+			desc = ethic_xenophile
 		}
 
 		modifier = {
 			factor = 2
 			has_ethic = ethic_xenophobe
+			desc = ethic_xenophobe
 		}
 
 		modifier = {
 			factor = 4
 			has_ethic = ethic_fanatic_xenophobe
+			desc = ethic_xenophobe
 		}
 	}
 }
@@ -305,21 +321,25 @@ claims_decay_repeal_2 = {
 		modifier = {
 			factor = 0.25
 			has_ethic = ethic_fanatic_xenophile
+			desc = ethic_fanatic_xenophile
 		}
 
 		modifier = {
 			factor = 0.5
 			has_ethic = ethic_xenophile
+			desc = ethic_xenophile
 		}
 
 		modifier = {
 			factor = 2
 			has_ethic = ethic_xenophobe
+			desc=  ethic_xenophobe
 		}
 
 		modifier = {
 			factor = 4
 			has_ethic = ethic_fanatic_xenophobe
+			desc = ethic_fanatic_xenophobe
 		}
 	}
 }
@@ -362,21 +382,25 @@ claims_decay_repeal_3 = {
 		modifier = {
 			factor = 0.25
 			has_ethic = ethic_fanatic_xenophile
+			desc = ethic_fanatic_xenophile
 		}
 
 		modifier = {
 			factor = 0.5
 			has_ethic = ethic_xenophile
+			desc = ethic_fanatic_xenophile
 		}
 
 		modifier = {
 			factor = 2
 			has_ethic = ethic_xenophobe
+			desc = ethic_xenophobe
 		}
 
 		modifier = {
 			factor = 4
 			has_ethic = ethic_fanatic_xenophobe
+			desc = ethic_fanatic_xenophobe
 		}
 	}
 }
