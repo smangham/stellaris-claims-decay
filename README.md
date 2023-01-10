@@ -1,4 +1,4 @@
-[b]Version 3.5.*[/b]
+[b]Version 3.6.*[/b]
 
 Ever been unable to invite a long-term associate to join a federation because of a war they had with a member 200 years ago? Can't form a federation in the first place because you took a system someone wanted of a mutual enemy 100 years ago? This mod should address some of these annoyances.
 
@@ -14,6 +14,9 @@ This should prevent claims from hanging around forever and preventing peaceful c
 [h1]FAQ[/h1]
 [i]Does this modify/is this compatible with/...?[/i]
 It edits no existing files, only adds new ones.
+
+[h1]Credits[/h1]
+[b]Simplified Chinese[/b] translation thanks to [url=https://steamcommunity.com/id/MyresMkG/]MyresMkG[/url]!
 
 [h1]My other mods:[/h1]
 If you like this, you might also like:
