@@ -1,4 +1,4 @@
-[b]Version 3.7.*[/b]
+[b]Version 3.8.*[/b]
 
 Ever been unable to invite a long-term associate to join a federation because of a war they had with a member 200 years ago? Can't form a federation in the first place because you took a system someone wanted of a mutual enemy 100 years ago? This mod should address some of these annoyances.
 
@@ -22,4 +22,7 @@ It edits no existing files, only adds new ones.
 If you like this, you might also like:
 [list]
 	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1319264195]Loyal Subjects Have Nothing to Fear (from the Colossus):[/url] Loyal vassals and tributaries no longer suffer opinion penalties when you crack a planet.
+	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2949670744]Shared Burden Balance - People Power:[/url] Adds a flat bonus to political power to the Shared Burden living standard to remove its effective faction influence penalty.
+	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2948086213]Optimal Genomes - Better Genetic Ascension:[/url] Adds combined traits to simplify running a genetically ascended empire.
+	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2953156241][spoiler]Mass Driver Rebuilt[/spoiler] - Fear the Dark:[/url] Adds an extra bonus to the end of the Fear of the Dark origin quest chain.
 [/list]
