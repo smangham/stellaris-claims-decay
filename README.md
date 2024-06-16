@@ -1,4 +1,4 @@
-[b]Version 3.10.*[/b]
+[b]Version 3.12.*[/b]
 
 Ever been unable to invite a long-term associate to join a federation because of a war they had with a member 200 years ago? Can't form a federation in the first place because you took a system someone wanted of a mutual enemy 100 years ago? This mod should address some of these annoyances.
 
